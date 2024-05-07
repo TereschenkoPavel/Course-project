@@ -1,0 +1,41 @@
+h2{
+    color: white;
+    text-align: center;
+}
+main #grid{
+    padding: 0 4vw;
+    display: grid;
+    text-align: center;
+    grid-gap: 1vw;
+    grid-template-columns: 30vw 30vw 30vw;
+    p
+    {margin: 5px;
+    color: white;
+    }
+    img{
+        width: 20vw;
+        height: 25vw;
+        border-radius: 20px;
+    }
+}
+@media screen and (max-width:1000px){
+main #grid{
+    grid-template-columns: 40vw 40vw;
+    padding: 0 5vw;
+    grid-gap: 10vw;
+    img{
+        width: 40vw;
+        height: 50vw;
+    }
+}
+}
+
+@media screen and (max-width:420px){
+main #grid{
+display: block;
+    img{
+        width: 80vw;
+        height: 100vw;
+    }
+}
+}

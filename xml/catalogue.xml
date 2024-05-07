@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <bouquet>
+        <image>img\photo_5314432076843442161_y.jpg</image> 
+        <name>Кустовая роза и диантус</name>
+        <price>375 р</price>
+        <link>1.html</link>
+    </bouquet>
+    <bouquet>
+        <image>img\photo_5314432076843442166_y.jpg</image> 
+         <name>Хризантема, диантус и лимониум</name>
+         <price>60 р</price>
+         <link>2.html</link>
+     </bouquet>
+     <bouquet>
+        <image>img\photo_5314432076843442167_y.jpg</image> 
+         <name>Роза, кустовая роза и эвкалипт</name>
+         <price>130 р</price>
+         <link>3.html</link>
+     </bouquet>
+     <bouquet>
+        <image>img\photo_5314432076843442169_y.jpg</image> 
+         <name>Хризантема, роза, диантус и гипсофила</name>
+         <price>65 р</price>
+         <link>4.html</link>
+     </bouquet>
+     <bouquet>
+        <image>img\photo_5314432076843442172_y.jpg</image> 
+         <name>Тюльпан, нарцис и Диантус на каркасе</name>
+         <price>170 р</price>
+         <link>5.html</link>
+     </bouquet>
+     <bouquet>
+        <image>img\photo_5314432076843442173_y.jpg</image> 
+         <name>Эустома, роза и эвкалипт</name>
+         <price>85 р</price>
+         <link>6.html</link>
+     </bouquet>
+</catalogue>
