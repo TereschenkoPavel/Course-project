@@ -2,10 +2,12 @@ let xmlContent = '';
 let grid = document.getElementById('grid');
 fetch('xml/catalogue.xml').then((response)=>{
     response.text().then((xml)=>{
+        
         xmlContent = xml;
         let parser = new DOMParser();
         let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
         let bouquets = xmlDOM.querySelectorAll('bouquet');
+
         bouquets.forEach(bouquetXmlNode => {
             let a = document.createElement('a');
 
