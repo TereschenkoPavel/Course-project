@@ -10,9 +10,6 @@ header nav {
   text-align: center;
   align-items: center;
 }
-.about iframe {
-  width: 80vw;
-}
 .about svg {
   margin: 20px 0;
 }

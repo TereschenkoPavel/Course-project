@@ -1,0 +1,16 @@
+iframe{
+    width: 35vw;
+    height: 40vh;
+    display: block;
+    margin: 5vh 5vw;
+}
+@media screen and (max-width:1000px){
+    main iframe{
+        width: 70vw;
+    }
+}
+@media screen and (max-width:420px){
+    main iframe{
+        width: 80vw;
+    }
+}
