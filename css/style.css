@@ -118,7 +118,7 @@ a {
 @media screen and (max-width: 1000px) {
   main input {
     width: 55vw;
-    height: 20px;
+    height: 30px;
   }
   .about {
     flex-direction: column;
