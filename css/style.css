@@ -75,7 +75,7 @@ footer .VerticalList a, footer .VerticalList p {
   display: flex;
   margin: 0;
 }
-footer svg {
+footer img {
   margin: 0 5%;
 }
 
@@ -119,7 +119,7 @@ a {
     text-align: center;
     align-items: center;
   }
-  .about svg {
+  .about img {
     margin: 20px 0;
   }
   .about .about_text {
