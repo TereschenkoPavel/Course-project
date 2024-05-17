@@ -1,5 +1,5 @@
 const input = document.getElementById("search")
-const template = document.querySelector("[bouquet-template]")
+const template = document.getElementById("bouquet-template")
 const container = document.getElementById("grid")
 
 let flowers = []
