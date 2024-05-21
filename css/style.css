@@ -4,6 +4,7 @@ body {
   margin: 0;
   -ms-overflow-style: none;
   width:100%;
+  overflow-x:hidden;
 }
 HTML{
   overflow-x: hidden;
