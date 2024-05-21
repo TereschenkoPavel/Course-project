@@ -37,7 +37,9 @@ footer {
   text-align: center;
   padding-bottom: 10px;
 }
-
+socials{
+  justify-content: space-around;
+}
 .navbar {
   display: block !important;
   width: 40vw;
