@@ -33,7 +33,7 @@ main #grid img {
 }
 @media screen and (max-width: 420px) {
   main #grid {
-    display: block;
+    display: block !important;
   }
   main #grid img {
     width: 80vw;
