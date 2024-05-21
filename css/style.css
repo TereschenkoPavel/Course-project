@@ -75,6 +75,13 @@ footer .VerticalList a, footer .VerticalList p {
   display: flex;
   margin: 0;
 }
+footer .socials{
+  display:flex
+}
+footer .socials figure{
+  width:30%;
+  margin:10px;
+}
 footer img {
   margin: 0 5%;
 }
